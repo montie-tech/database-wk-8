@@ -17,5 +17,5 @@ It includes users, products, categories, suppliers, orders, payments, reviews, p
 
 ### 1. Clone the Repository
 ```bash
-git clone 
+git clone https://github.com/montie-tech/database-wk-8.git
 cd e-commerce dbms
